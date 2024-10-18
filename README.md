@@ -3,9 +3,7 @@
 #### Group Member : Muhammad Nevin, Alfarabi Muzli
 ### Description
 Transliteration is necessary for Javanese script documents that include a lot of information.
-
 The outcomes of the transliteration solely affect the characters' readability.
-
 In order for a larger audience to understand the material, Javanese script must be translated.
 
 ### Problem Statement

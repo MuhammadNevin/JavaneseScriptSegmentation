@@ -4,10 +4,10 @@
 ### Description
 Transliteration is necessary for Javanese script documents that include a lot of information.
 The outcomes of the transliteration solely affect the characters' readability.
-In order for a larger audience to understand the material, Javanese script must be translated.
+In order for a larger audience to understand the material, Javanese script must be translated and segmentated.
 
 ### Problem Statement
-In order for a larger audience to understand the material, it must also be translated into Javanese script.
+In order for a larger audience to understand the material, it must also be translated into Javanese script. It needs word segmentation for further analysis.
 
 
 - Our file for CRISP DM Assignment is in here [notebook/CRISP-DM-bilstm.ipynb](https://github.com/MuhammadNevin/JavaneseScriptSegmentation/blob/main/notebook/CRISP-DM-bilstm.ipynb)
